@@ -1,0 +1,1 @@
+// Ja, omdat de eerste return in de scope van de if statement zit en de tweede return zit daarbuiten
